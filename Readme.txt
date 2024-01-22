@@ -1,7 +1,7 @@
                                                Bakery Managment System.
 Group  Members
- Siaim ulhaq (21-ARID-3807)
- Kamran Arshad(21ARID-3799)
+ Siaim ulhaq 
+
 
 
                                                     Project Details !!!!!
